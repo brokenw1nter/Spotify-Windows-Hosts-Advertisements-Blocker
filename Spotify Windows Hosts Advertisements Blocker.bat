@@ -8,7 +8,7 @@ title Spotify Windows Hosts Advertisements Blocker
 echo *************************************************
 echo * Spotify Windows Hosts Advertisements Blocker  *
 echo *       Made by GabryProject (01/10/2016)       *
-echo *        Recoded by TimmyS (10/07/2018)         *
+echo *        Recoded by w1nter (10/07/2018)         *
 echo *************************************************
 echo.
 echo *************************************************
